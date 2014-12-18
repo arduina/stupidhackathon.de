@@ -84,3 +84,7 @@ a {
   #main { width: 100%; position: relative; left: 0;}
   body { background: none;}
 }
+
+.section {
+  margin-top: 500px;
+}
